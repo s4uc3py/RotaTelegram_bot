@@ -16,7 +16,7 @@
 
 **1. Клонирование репозитория**
 ```bash
-git clone https://github.com/ваш-username/RotaTelegramBot.git
+git clone https://github.com/s4uc3py/RotaTelegramBot.git
 cd RotaTelegramBot
 ```
 **2. Настройка бота**
